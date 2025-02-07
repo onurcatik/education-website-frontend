@@ -32,13 +32,6 @@ To set up the project, install the necessary dependencies:
 npm install
 ```
 
-## Project Setup
-To set up the project, install the necessary dependencies:
-
-```sh
-npm install
-```
-
 ## Development
 To start the development server with hot-reloading enabled:
 
