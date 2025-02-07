@@ -1,18 +1,5 @@
 # Vue Tailwind SPA
 
-## Table of Contents
-- [Vue Tailwind SPA](#vue-tailwind-spa)
-  - [Table of Contents](#table-of-contents)
-  - [Tech Stack](#tech-stack)
-  - [Installation](#installation)
-  - [Project Setup](#project-setup)
-  - [Development](#development)
-  - [Production Build](#production-build)
-  - [Linting \& Code Quality](#linting--code-quality)
-  - [Folder Structure](#folder-structure)
-  - [Tailwind CSS Integration](#tailwind-css-integration)
-  - [Deployment](#deployment)
-  - [Contributions](#contributions)
 
 ## Tech Stack
 This project utilizes the following technologies:
@@ -25,7 +12,9 @@ This project utilizes the following technologies:
 - **Babel** - JavaScript compiler for backward compatibility.
 - **ESLint** - Linting tool for code consistency and quality.
 
-## Installation
+
+
+## Project Setup
 To set up the project, install the necessary dependencies:
 
 ```sh
